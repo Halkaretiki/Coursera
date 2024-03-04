@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T11:38:49 IST" name="Suite" finished-at="2024-02-29T11:42:20 IST" duration-ms="210201">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T11:38:49 IST" name="Test" finished-at="2024-02-29T11:42:20 IST" duration-ms="210201">
+      <class name="TestCase.testcase1">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:38:14 IST" name="setup" finished-at="2024-02-29T11:38:49 IST" duration-ms="34906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SetSearch()[pri:1, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:38:50 IST" name="SetSearch" finished-at="2024-02-29T11:39:30 IST" duration-ms="40209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetSearch -->
+        <test-method signature="SelectLanguage()[pri:2, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:39:30 IST" name="SelectLanguage" finished-at="2024-02-29T11:39:37 IST" duration-ms="6684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectLanguage -->
+        <test-method signature="SelectLevel()[pri:3, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:39:37 IST" name="SelectLevel" finished-at="2024-02-29T11:39:38 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectLevel -->
+        <test-method signature="PrintCourses()[pri:4, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:39:38 IST" name="PrintCourses" finished-at="2024-02-29T11:39:46 IST" duration-ms="8354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintCourses -->
+        <test-method signature="Businesses()[pri:5, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:39:47 IST" name="Businesses" finished-at="2024-02-29T11:40:52 IST" duration-ms="65146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Businesses -->
+        <test-method signature="Solution()[pri:6, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:40:52 IST" name="Solution" finished-at="2024-02-29T11:42:15 IST" duration-ms="82915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Solution -->
+        <test-method signature="printToExcel()[pri:6, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:42:15 IST" name="printToExcel" finished-at="2024-02-29T11:42:16 IST" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printToExcel -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.testcase1@233795b6]" started-at="2024-02-29T11:42:20 IST" name="close" finished-at="2024-02-29T11:42:22 IST" duration-ms="1554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCase.testcase1 -->
+      <class name="TestCase.testcase2">
+        <test-method signature="form()[pri:1, instance:TestCase.testcase2@3cd3e762]" started-at="2024-02-29T11:42:17 IST" name="form" finished-at="2024-02-29T11:42:19 IST" duration-ms="2440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+      </class> <!-- TestCase.testcase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
